@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mazoruss/portfolio/issues"
   },
-  "homepage": "https://github.com/mazoruss/portfolio#readme"
+  "homepage": "https://github.com/mazoruss/portfolio#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
